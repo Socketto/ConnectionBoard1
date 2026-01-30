@@ -1258,7 +1258,7 @@
 	(footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_4-G-5,08_1x04_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "312c3c9d-2298-45a3-9581-13b33f7f17bc")
-		(at 181.2225 108.99 90)
+		(at 181 108.99 90)
 		(descr "Generic Phoenix Contact connector footprint for: MSTBA_2,5/4-G-5,08; number of pins: 04; pin pitch: 5.08mm; Angled || order number: 1757268 12A || order number: 1923885 16A (HC)")
 		(tags "phoenix_contact connector MSTBA_01x04_G_5.08mm")
 		(property "Reference" "J10"
@@ -4187,7 +4187,7 @@
 		(descr "SMD 10x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x26.96mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile")
 		(tags "SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile")
 		(property "Reference" "J8"
-			(at 0 -14.54 0)
+			(at 4.805 14.43 0)
 			(layer "F.SilkS")
 			(uuid "96d4cb68-14a7-4631-b220-af2698f66a72")
 			(effects
@@ -5452,7 +5452,7 @@
 			)
 		)
 		(property "Value" "MPX"
-			(at 12.25 -4.4725 0)
+			(at 13.25 -4.2225 0)
 			(layer "F.SilkS")
 			(uuid "7f6098a8-8694-4d85-bb30-8cd76099e724")
 			(effects
@@ -6196,7 +6196,7 @@
 			)
 		)
 		(property "Value" "Seriale"
-			(at 12.25 -4.9725 180)
+			(at 13.25 -5.2225 180)
 			(layer "F.SilkS")
 			(uuid "5085ed5d-ce92-4f05-b333-5315dacbad8b")
 			(effects
@@ -7676,7 +7676,7 @@
 		)
 	)
 	(gr_text "GND\n"
-		(at 175.75 57.75 0)
+		(at 176.5 57.75 0)
 		(layer "F.SilkS")
 		(uuid "0b7eccc1-01eb-475d-bee8-73acea4aba74")
 		(effects
@@ -7753,7 +7753,7 @@
 		)
 	)
 	(gr_text "PLAN\n"
-		(at 176.75 90.75 0)
+		(at 176.25 90.75 0)
 		(layer "F.SilkS")
 		(uuid "2cec13b7-3e91-4408-8564-df5060619c84")
 		(effects
@@ -7920,7 +7920,7 @@
 		)
 	)
 	(gr_text "B"
-		(at 178 94 0)
+		(at 177.5 94 0)
 		(layer "F.SilkS")
 		(uuid "6ab0a613-e505-480f-8c5c-4fa332d736c1")
 		(effects
@@ -7953,7 +7953,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 176.75 104 0)
+		(at 176.5 104 0)
 		(layer "F.SilkS")
 		(uuid "6f7c0988-c3ba-4ac1-8c08-4ae8388730af")
 		(effects
@@ -8199,7 +8199,7 @@
 		)
 	)
 	(gr_text "A"
-		(at 178 99 0)
+		(at 177.5 99 0)
 		(layer "F.SilkS")
 		(uuid "c94e6db3-4fbe-4314-9bfa-2950f2b88b88")
 		(effects
