@@ -26,6 +26,8 @@ Using this selector, VCC can be:
 * Isolated from specific connectors if required
 * Connected to the external power input
 
+![Board](images/board0.gif)
+
 This makes it possible to power connected devices directly from the board or keep power lines separated, depending on the application.
 
 ## External Power Input
