@@ -6,7 +6,9 @@ This project describes a **simple RS-485 interface board** designed to allow com
 
 The board acts as a passive/low-complexity hub, exposing multiple RS-485 connectors while keeping the electrical interface consistent. It is intended for prototyping, testing, field wiring adaptation, and small installations where flexibility is more important than protocol conversion.
 
-![Board](images/board.jpg)
+![Board](images/board.jpg)  
+
+![Board](images/board1.jpg)
 
 ## Features
 
